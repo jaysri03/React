@@ -1,0 +1,19 @@
+
+
+
+form{
+    width: 400px;
+    height: 250px;
+    border: 2px solid black;
+    top: 50px;
+    
+}  
+
+
+
+
+input[type]{
+    display: inline;
+    border: none;
+    border-bottom: 1px solid black;
+}
